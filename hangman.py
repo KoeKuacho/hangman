@@ -1,5 +1,5 @@
 # Problem Set 2, hangman.py
-# Name: Sergio
+# Name: Sergio Mega
 # Collaborators: no one
 # Time spent:
 
